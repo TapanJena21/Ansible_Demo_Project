@@ -14,7 +14,7 @@ Tasks:
 4. DB Creation
 5. Table creation
 
-Steps:
+Steps to Execute:
 -----
 
 1. Creat two roles.. one `tomcat` & other `mysql` using `ansible-galaxy`
